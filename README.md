@@ -1,2 +1,24 @@
 # student_manage
-student management written by c++
+
+student_manage  学生管理系统
+
+## 功能
+   
+- [x] 0.退出
+- [x] 1.打印学生信息
+- [x] 2.添加学生信息
+- [x] 3.通过学号查询学生信息
+- [x] 4.修改学生信息
+- [x] 5.删除学生信息
+- [x] 6.清屏
+
+
+## 编译
+```
+$make
+```
+
+## 运行
+```
+$./main
+```
